@@ -1,0 +1,77 @@
+D:\C#\G1340_SFG\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+D:\C#\G1340_SFG\G1340_SFG\bin\Debug\G1340_SFG.exe
+D:\C#\G1340_SFG\G1340_SFG\bin\Debug\G1340_SFG.pdb
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.csproj.CoreCompileInputs.cache
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.exe
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.pdb
+D:\C#\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.csproj.CoreCompileInputs.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG\G1340_SFG\obj\Debug\G1340_SFG.pdb
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\User\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.csproj.CoreCompileInputs.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy\G1340_SFG\obj\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.csproj.CoreCompileInputs.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\User\Desktop\G1340_SFG - Copy - Copy\G1340_SFG\obj\Debug\G1340_SFG.pdb
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\User\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\bin\Debug\G1340_SFG.exe.config
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\bin\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\bin\Debug\G1340_SFG.pdb
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.csprojAssemblyReference.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.Form1.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.Properties.Resources.resources
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.csproj.GenerateResource.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.csproj.CoreCompileInputs.cache
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.exe
+C:\Users\Abiz20201\Desktop\G1340_SFG Test\G1340_SFG\obj\Debug\G1340_SFG.pdb
